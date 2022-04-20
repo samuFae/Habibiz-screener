@@ -1,0 +1,15 @@
+/* @font-face {
+  font-family: 'LoveFont';
+  src: url('./styles/fonts/Love.ttf'); /* IE9 Compat Modes 
+} */
+
+body {
+  margin: 0;
+  font-family: Arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}

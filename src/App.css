@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+}
+
+.App {
+  text-align: center;
+}
+
+iframe {
+  display: none;
+  visibility: hidden;
+}
